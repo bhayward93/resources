@@ -42,7 +42,8 @@ We can cheaply make static websites with simple messages encouraging social isol
 - An artful informative message encouraging people to isolate and not engage in unnecessary contact with others.
 - For lack of a better term, an attempt at viral marketing of the social distancing message.
 - A static website.
-- A lot of very small effort static sites to raise awareness.
+- A lot of very small effort static sites to raise awareness, hosted through IPFS.
+
 
 ### What it is not
 - An API
