@@ -63,7 +63,7 @@ Opensource ventilator DIY guide
 
 ### Design
 (Screenshot/drawing/link)
-Not available at this time
+Not available at this time.
 
 ### Data/Experiments
 (Detail all the things about the experiment/trial setting especially any data requirements)
@@ -85,3 +85,5 @@ Add in the table below the people you definitely want their eyes on this proposa
 | Name | Status |
 |-|-|
 |  |  Read/Not Read    |
+
+Do not merge.
